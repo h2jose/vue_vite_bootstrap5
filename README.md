@@ -4,6 +4,10 @@ This boilerplate help get you started developing with Vue 3 in Vite using the Bo
 
 Happy coding.
 
+## Demo
+
+[View Demo](https://boilerplate-vue-vite-bootstrap.netlify.app/).
+
 ## Project Setup
 
 ```sh
